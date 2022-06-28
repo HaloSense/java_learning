@@ -78,6 +78,15 @@ public class VarTest1{
 		char myChar4 = '\u0043';
 		System.out.println(myChar4);
 
+		// 布尔型 boolean
+		// 只能取两个值之一 true、false
+		// 常用于条件判断、循环结构
+
+		boolean myBool = true;
+		System.out.println(myBool);
+
+
+
 
 
 
